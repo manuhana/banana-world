@@ -1,0 +1,17 @@
+Okay, so this is my new project
+Currently, I'm trying to make a text-based interactive story
+The main character would be the player
+And the player may choose the ending based on their choices
+Such a classic boring game, huh?
+Poor me, I wrote the entire code myself
+Too cliche isn't it? :)
+Well, I'm still beginner after all
+Making such a simple game like this does take a lot of effort
+You may copy the source code and modify the whole things
+Just, make sure to put the 'Banana World' magic words in your credit :)
+If you enjoy the game or like to made projects with me
+Feel free to contact me :)
+Open source projects are always welcome after all
+So, yeah, you can always ask me :)
+Thank you for your visit
+Have a good day!
